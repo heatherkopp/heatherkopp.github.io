@@ -10,6 +10,7 @@ title: Teaching
 
 ### Department Methods Workshops
 - Geospatial Modeling in R, Truman School of Government and Public Affairs, University of Missouri (Spring 2022)
+    - Summary: "In this workshop, we learn about the different classes of data that we can map with using R, including spatial data frames, simple features, and spatial polygons. We also cover where to find mapping data from basic R packages, installed R packages, and shp files. We conclude by learning how to map with ggplot2, how to plot layers of data on maps, and how to customize maps in terms of their coordinates, colors, and other ggplot2 features."
 
 ### Teaching Assistant 
 - Categorical Data Analysis: Models for Categorical, Ordinal, and Count Outcomes (Summer 2023)
