@@ -2,6 +2,10 @@ title: Heather M. Kopp
 author: Heather M. Kopp
 email: hmk439@mail.missouri.edu 
 website:  https://truman.missouri.edu/people/kopp
+
+minima:
+  social_links:
+  - { platform: github, user_url: "https://github.com/heatherkopp" }
 scholar_username: u6EcVJoAAAAJ
 google_username: u6EcVJoAAAAJ 
 #orcid_id: 0000-0003-2606-7089
