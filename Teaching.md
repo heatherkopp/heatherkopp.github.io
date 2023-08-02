@@ -2,6 +2,9 @@
 layout: page
 title: Teaching
 ---
+### Overview
+
+
 ### Graduate Instructor 
 - __POL 1400: International Relations__, University of Missouri, (Spring 2024 tentative)
 - __POL 2700: Comparative Political Systems__, University of Missouri, (Fall 2023) 
