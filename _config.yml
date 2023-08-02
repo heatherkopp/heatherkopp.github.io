@@ -9,3 +9,4 @@ work_url: https://truman.missouri.edu/people/kopp
 
 markdown: kramdown
 theme: minima 
+  skin: dark 
