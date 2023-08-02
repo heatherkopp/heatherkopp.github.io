@@ -11,19 +11,18 @@
         </ul>
       </div>
       <div class="footer-col">
-        <p>{{ site.description | escape }}</p>
       </div>
     </div>
 
     <div class="social-links">
-    <ul class="social-media-list">
+    {%- include social.html -%}
     
     </div>
   </div>
 </footer>
 
 <div class="sub-footer">
-  ::before
+ ::before
   <div id="skin-switch-container" style="display: block;">
     " Page rendered with the "
     <select id="skin-switch" onchange="changeSkin()">
@@ -35,12 +34,12 @@
 </div>
 
 <script>
-  document.getElementById("skin-switch-container").style.display="block";
+  document.getElementById("skin-switch-container").style.display = "block";
   var metaTag = document.getElementById("stylesheet");
   var SSHref = metaTag.href;
   var SSName = (SSHref.substring(SSHref.lastIndexOf('/') + 1));
 
-  document.getElementByID("skin-switch").value = SSName;
+  document.getElementById("skin-switch").value = SSName;
 
   function changeSkin() {
     metaTag.href = SSHref.replace(SSName, event.target.value);
