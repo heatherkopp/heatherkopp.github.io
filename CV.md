@@ -5,4 +5,4 @@ title: CV
 
 A copy of my CV can be found [here](https://heatherkopp.github.io/files/heatherkopp_cv.pdf) and below. 
 
-<embed src="https://heatherkopp.github.io/files/heatherkopp_cv.pdf" type="application/pdf" width="700" height="512" scale="tofit"/>
+<embed src="https://heatherkopp.github.io/files/heatherkopp_cv.pdf" type="application/pdf" width="900" height="512" scale="tofit"/>
