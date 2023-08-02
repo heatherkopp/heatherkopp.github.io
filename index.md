@@ -2,8 +2,8 @@
 layout: home
 ---
 <img align="right" src="https://heatherkopp.github.io/files/kopp.jpg" height="400"/>
-
-Welcome! I am Heather Kopp, a 5th year political science Ph.D. candidate in the [Truman School of Government and Public Affairs](https://www.truman.missouri.edu/) at the [University of Missouri](https://www.missouri.edu/). My subfields are international relations and comparative politics. In 2019, I graduated from [Truman State University](https://www.truman.edu/) with a B.S. in history &nbsp; and in political science. 
+&nbsp;
+Welcome! I am Heather Kopp, a 5th year political science Ph.D. candidate in the [Truman School of Government and Public Affairs](https://www.truman.missouri.edu/) at the [University of Missouri](https://www.missouri.edu/). My subfields are international relations and comparative politics. In 2019, I graduated from [Truman State University](https://www.truman.edu/) with a B.S. in history and in political science. 
 
 My research focuses on domestic determinants and consequences of interstate conflict and on political competition. I study the mechanisms through which civil conflict leads to interstate conflict, how domestic institutions and political parties affect interstate conflict processes, how audience costs affect states’ foreign policy decisions, and how political parties compete with one another over issues they are perceived to own. More broadly, I have research interests in interstate and intrastate conflict, violent nonstate actors, voting behavior, public opinion and foreign policy, and party competition. My dissertation examines how perceptions of party issue ownership affect the severity of audience costs that incumbents incur as a result of international conflict.
 
