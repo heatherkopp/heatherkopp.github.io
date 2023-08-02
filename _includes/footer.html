@@ -20,28 +20,3 @@
     </div>
   </div>
 </footer>
-
-<div class="sub-footer">
- ::before
-  <div id="skin-switch-container" style="display: block;">
-    " Page rendered with the "
-    <select id="skin-switch" onchange="changeSkin()">
-      <option value="dark.css">dark</option>
-      <option value="style.css">classic</option>
-    </select>
-    " skin of Minima theme."
-  </div>
-</div>
-
-<script>
-  document.getElementById("skin-switch-container").style.display = "block";
-  var metaTag = document.getElementById("stylesheet");
-  var SSHref = metaTag.href;
-  var SSName = (SSHref.substring(SSHref.lastIndexOf('/') + 1));
-
-  document.getElementById("skin-switch").value = SSName;
-
-  function changeSkin() {
-    metaTag.href = SSHref.replace(SSName, event.target.value);
-  }
-</script>
