@@ -2,7 +2,7 @@ title: Heather M. Kopp
 author: Heather M. Kopp
 email: hmk439@mail.missouri.edu 
 
-{ platform: github,         user_url: "https://github.com/heatherkopp" }
+- { platform: github,         user_url: "https://github.com/heatherkopp" }
   #   - { platform: google_scholar, user_url: "https://scholar.google.com/citations?user=qc6CJjYAAAAJ" }
   #   - { platform: instagram,      user_url: "https://www.instagram.com/jekyll" }
   #   - { platform: keybase,        user_url: "https://keybase.io/jekyll" }
