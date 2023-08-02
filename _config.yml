@@ -2,7 +2,7 @@ title: Heather M. Kopp
 author: Heather M. Kopp
 email: hmk439@mail.missouri.edu 
 website:  https://truman.missouri.edu/people/kopp
-rss: false 
+
 minima:
   skin: dark
   social_links:
@@ -11,7 +11,7 @@ minima:
   - { platform: github, user_url: "https://github.com/heatherkopp" }
   - { platform: twitter, user_url: "https://twitter.com/hmkopp6" }
 
-url: https://truman.missouri.edu/people/kopp
+#url: https://truman.missouri.edu/people/kopp
 
 markdown: kramdown
 theme: minima 
