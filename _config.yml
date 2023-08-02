@@ -5,12 +5,12 @@ website:  https://truman.missouri.edu/people/kopp
 scholar_username: u6EcVJoAAAAJ
 google_username: u6EcVJoAAAAJ 
 #orcid_id: 0000-0003-2606-7089
-#twitter_username: hmkopp6
+twitter_username: hmkopp6
 github_username: heatherkopp
 url: https://truman.missouri.edu/people/kopp
 
-#minima:  
-#skin: dark
+minima:  
+skin: dark
 #    social_links:
  #    - { platform: devto,          user_url: "https://dev.to/jekyll" }
   #   - { platform: dribbble,       user_url: "https://dribbble.com/jekyll" }
