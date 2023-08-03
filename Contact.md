@@ -3,7 +3,7 @@ layout: page
 title: Contact
 ---
 
-Email: [hmk439@mail.missouri.edu](href="mailto:hmk439@mail.missouri.edu")
+Email: <a href="mailto:hmk439@mail.missouri.edu">hmk439@mail.missouri.edu</a>
 
 Office: E004 Locust Street Bldg., 615 Locust Street, Columbia, MO 65211
 
