@@ -8,8 +8,6 @@ minima:
   - { platform: google_scholar, user_url: "https://scholar.google.com/citations?user=u6EcVJoAAAAJ" }
   -  platform: orcid
      user_url: "https://orcid.org/0000-0003-2606-7089" 
-  -  platform: googlescholar
-     user_url: "https://scholar.google.com/citations?user=u6EcVJoAAAAJ" 
   - { platform: github, user_url: "https://github.com/heatherkopp" }
   - { platform: twitter, user_url: "https://twitter.com/hmkopp6" }
 
