@@ -8,7 +8,7 @@ title: Teaching
 ### Graduate Instructor 
 - __POL 1400: International Relations__, University of Missouri, (Spring 2024 tentative)
 - __POL 2700: Comparative Political Systems__, University of Missouri, (Fall 2023) 
-- __POL 4410:__ [Politics and War](https://heatherkopp.github.io/files/Kopp SUM23 POL 4410 Syllabus.pdf){:target="_blank"}, University of Missouri (Summer 2023)
+- __POL 4410: [Politics and War](https://heatherkopp.github.io/files/Kopp SUM23 POL 4410 Syllabus.pdf){:target="_blank"}__, University of Missouri (Summer 2023)
 - __POL 4411:__ [Genocide, Terrorism, and Civil War](https://heatherkopp.github.io/files/Kopp F22 POL 4411 Syllabus.pdf){:target="_blank"}, University of Missouri (Fall 2022)
 
 ### Department Methods Workshops
