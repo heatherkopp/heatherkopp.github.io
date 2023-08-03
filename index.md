@@ -2,7 +2,7 @@
 layout: home
 ---
 
-<img align="right" src="https://heatherkopp.github.io/files/kopp.jpg" height="400" alt="kopp"/>
+<img align="right" src="https://heatherkopp.github.io/files/kopp.jpg" height="450" alt="kopp"/>
 
 Welcome! I am Heather Kopp, a 5th year political science Ph.D. candidate in the [Truman School of Government and Public Affairs](https://www.truman.missouri.edu/){:target="_blank"} at the [University of Missouri](https://www.missouri.edu/){:target="_blank"}. My subfields are international relations and comparative politics. In 2019, I graduated from [Truman State University](https://www.truman.edu/){:target="_blank"} with a B.S. in <br> history and in political science. 
 
