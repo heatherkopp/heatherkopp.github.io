@@ -12,6 +12,13 @@ minima:
 
 plugins:
   - jekyll-responsive-image
-  
+
+picture:
+  template: _includes/picture.html
+  sizes:
+    - width: 320
+    - width: 480
+    - width: 800
+    
 markdown: kramdown
 theme: minima 
