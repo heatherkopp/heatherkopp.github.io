@@ -9,7 +9,7 @@ title: Teaching
 - __POL 1400: International Relations__, University of Missouri, (Spring 2024 tentative)
 - __POL 2700: Comparative Political Systems__, University of Missouri, (Fall 2023) 
 - __POL 4410: [Politics and War](https://heatherkopp.github.io/files/Kopp SUM23 POL 4410 Syllabus.pdf){:target="_blank"}__, University of Missouri (Summer 2023)
-- __POL 4411:__ [Genocide, Terrorism, and Civil War](https://heatherkopp.github.io/files/Kopp F22 POL 4411 Syllabus.pdf){:target="_blank"}, University of Missouri (Fall 2022)
+- __POL 4411: [Genocide, Terrorism, and Civil War](https://heatherkopp.github.io/files/Kopp F22 POL 4411 Syllabus.pdf){:target="_blank"}__, University of Missouri (Fall 2022)
 
 ### Department Methods Workshops
 - __Geospatial Modeling in R__, Truman School of Government and Public Affairs, University of Missouri (Spring 2022)
@@ -24,6 +24,7 @@ title: Teaching
     - Dr. Bryce W. Reeder, University of Missouri
 - __POL 3000W: Introduction to Political Research__ (Spring 2021 and Fall 2020)
     - Dr. Laron K. Williams, University of Missouri
+    - TA and Lab Instructor 
 - __POL 4410: Politics and War__ (Spring 2020)
     - Dr. Stephen L. Quackenbush, University of Missouri 
 - __POL 4420: Politics of International Economic Relations__ (Fall 2019)
