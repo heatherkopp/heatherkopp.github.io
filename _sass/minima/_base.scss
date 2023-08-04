@@ -68,7 +68,12 @@ img {
   vertical-align: middle;
 }
 
-
+.img-responsive
+{
+    display: block;
+    max-width: 60%;
+    height: auto;
+}
 
 /**
  * Figures
