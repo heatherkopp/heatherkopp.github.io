@@ -2,9 +2,9 @@
 layout: home
 ---
 
-<!--- <img align="right" src="https://heatherkopp.github.io/files/kopp.jpg" height="425" alt="kopp"/> 
+<!---<img align="right" src="https://heatherkopp.github.io/files/kopp.jpg" height="425" alt="kopp"/>   -->
 
-<img src="https://heatherkopp.github.io/files/kopp.jpg" alt="Image" class="img-responsive">
+<img align="right" src="https://heatherkopp.github.io/files/kopp-315w.jpg" alt="Image" class="img-responsive">
 
 <div dir="ltr">
 <p> Welcome! I am Heather Kopp, a 5th year political science Ph.D. candidate in the <a href="https://www.truman.missouri.edu/" target="_blank">Truman School of Government and Public Affairs</a> at the <a href="https://www.missouri.edu/" target="_blank">University of Missouri</a>. My subfields are international relations and comparative politics. In 2019, I graduated from <a href="https://www.truman.edu/" target="_blank">Truman State University</a> with a B.S. in history and in political science. </p>
@@ -13,7 +13,8 @@ layout: home
 
 <p> Through my graduate training, I am also interested in polititcal methodology broadly along with categorical data models, time series cross-sectional analysis, survival models, game theory, survival models, and spatial analysis. </p>
 
-<p> Please browse my CV, research, and teaching pages for additional information about my experience and work, and feel free to contact me via <a href = "mailto: hmk439@mail.missouri.edu">email</a> with questions. </p> -->
+<p> Please browse my CV, research, and teaching pages for additional information about my experience and work, and feel free to contact me via <a href = "mailto: hmk439@mail.missouri.edu">email</a> with questions. </p>
+
 <table class="table">
   <tr>
     <td class="text-right">
