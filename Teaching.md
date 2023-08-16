@@ -3,7 +3,11 @@ layout: page
 title: Teaching
 ---
 ### Overview
+As a graduate instructor, four primary goals I have include providing instruction on the social science of political science, creating student-driven opportunities that build students’ analytical skills, preparing students for success beyond the classroom, and being a welcoming and respectful instructor. 
 
+I work towards these goals by emphasizing the importance of theory and evidence when comprehending, evaluating, and conducting political science research; designing student-led assignments that allow students to scientifically analyze real-life cases and engage in the political science literature; providing students with writing, organizational, reading comprehension, communication, data, and additional skills that they can take with them to future courses, graduate school, and post-undergradute careers; and creating course schedules and reading lists that showcase topics and work from a wide variety of scholars. 
+
+A full statement on my teaching philosophy is available upon request.  
 
 ### Graduate Instructor 
 - __POL 1400: International Relations__, University of Missouri, (Spring 2024 tentative)
