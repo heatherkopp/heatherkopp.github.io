@@ -11,7 +11,7 @@ layout: home
 
 <p> My research focuses on domestic determinants and consequences of interstate conflict and on political competition. Broadly, I have research interests in interstate and intrastate conflict processes, violent nonstate actors, voting behavior, public opinion and foreign policy, and party competition. My dissertation examines how perceptions of party issue ownership affect the severity of audience costs that incumbents incur as a result of international conflict. </p>
 
-<p> Through my graduate training, I am also interested in polititcal methodology broadly along with categorical data models, survival models, time series cross-sectional analyses, game theory, and spatial models. </p>
+<p> Through my graduate training, I am also interested in polititcal methodology broadly along with practices focused on the empirical implications of theoretical models, models for categorical data, survival models, and time-series cross-sectional analyses. </p>
 
 <p> Please browse my CV, research, and teaching pages for additional information about my experience and work, and feel free to contact me via <a href = "mailto: hmk439@mail.missouri.edu">email</a> with questions. </p>
 
