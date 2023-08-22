@@ -5,7 +5,7 @@ title: Teaching
 ### Overview
 My teaching philosophy is motivated by four main goals: helping students think as social scientists, creating student-driven opportunities that build students’ analytical skills, preparing students for success beyond the classroom, and being a welcoming and respectful instructor. 
 
-I work towards these goals by emphasizing the importance of theory and evidence when comprehending, evaluating, and conducting political science research; designing student-led assignments that allow students to scientifically analyze real-life cases and engage in the political science literature; providing students with writing, organizational, reading comprehension, communication, data, and additional skills that they can take with them to future courses, graduate school, and post-undergradute careers; and creating course schedules and reading lists that showcase topics and work from a wide variety of scholars. 
+I work towards these goals by emphasizing the importance of theory and evidence when comprehending, evaluating, and conducting political science research; designing assignments that allow students to scientifically analyze cases and engage in the political science literature; providing students with tools and skills that they can take with them to future courses, graduate school, and post-undergradute careers; and creating course schedules and reading lists that showcase topics and work from a variety of scholars. 
 
 A full statement on my teaching philosophy is available upon request.  
 
