@@ -26,7 +26,7 @@ A full statement on my teaching philosophy is available upon request.
     - Dr. Heather-Leigh K. Ba, University of Missouri
 - __POL 1400: International Relations__ (Fall 2021)
     - Dr. Bryce W. Reeder, University of Missouri
-- __POL 3000W: Introduction to Political Research__ (Spring 2021 and Fall 2020)
+- __POL 3000W: Introduction to Political Research__ (Fall 2020 and Spring 2021)
     - Dr. Laron K. Williams, University of Missouri
     - TA and Lab Instructor 
 - __POL 4410: Politics and War__ (Spring 2020)
