@@ -10,8 +10,8 @@ I work towards these goals by emphasizing the importance of theory and evidence 
 A full statement on my teaching philosophy is available upon request.  
 
 ### Graduate Instructor 
-- __POL 1400: International Relations__, University of Missouri, (Spring 2024 tentative)
-- __POL 2700: [Comparative Political Systems](https://heatherkopp.github.io/files/Kopp F23 POL 2700 Syllabus.pdf){:target="_blank"}__, University of Missouri, (Fall 2023) 
+- __POL 1400: International Relations__, University of Missouri (Spring 2024)
+- __POL 2700: [Comparative Political Systems](https://heatherkopp.github.io/files/Kopp F23 POL 2700 Syllabus.pdf){:target="_blank"}__, University of Missouri (Fall 2023) 
 - __POL 4410: [Politics and War](https://heatherkopp.github.io/files/Kopp SUM23 POL 4410 Syllabus.pdf){:target="_blank"}__, University of Missouri (Summer 2023)
 - __POL 4411: [Genocide, Terrorism, and Civil War](https://heatherkopp.github.io/files/Kopp F22 POL 4411 Syllabus.pdf){:target="_blank"}__, University of Missouri (Fall 2022)
 
